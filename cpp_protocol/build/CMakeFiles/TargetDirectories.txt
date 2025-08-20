@@ -1,6 +1,0 @@
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/tank_gauge_comm.dir
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/tank_gauge_test.dir
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/protocol_tests.dir
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/test.dir
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/edit_cache.dir
-/home/runner/work/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool/cpp_protocol/build/CMakeFiles/rebuild_cache.dir
