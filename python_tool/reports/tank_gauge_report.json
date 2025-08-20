@@ -1,0 +1,25 @@
+{
+  "report_timestamp": "2025-08-20T23:55:54.834991",
+  "total_tanks": 3,
+  "current_fuel_levels": {
+    "TANK_001": 7757.056297064662,
+    "TANK_002": 11601.780287881696,
+    "TANK_003": 6166.06226277122
+  },
+  "tank_utilization_percent": {
+    "TANK_001": 77.57056297064663,
+    "TANK_002": 77.34520191921132,
+    "TANK_003": 77.07577828464025
+  },
+  "consumption_rates_l_per_hour": {
+    "TANK_001": 5.217031742940789,
+    "TANK_002": 11.571921873207117,
+    "TANK_003": 5.013935084709764
+  },
+  "potential_leaks": [],
+  "data_points_analyzed": 600,
+  "data_time_range": {
+    "start": "2025-08-18T23:55:54.792631",
+    "end": "2025-08-20T23:40:54.795955"
+  }
+}

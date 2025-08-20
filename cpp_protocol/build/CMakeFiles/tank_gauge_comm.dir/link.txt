@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtank_gauge_comm.a CMakeFiles/tank_gauge_comm.dir/src/tank_gauge_protocol.cpp.o CMakeFiles/tank_gauge_comm.dir/src/server_communication.cpp.o
+/usr/bin/ranlib libtank_gauge_comm.a

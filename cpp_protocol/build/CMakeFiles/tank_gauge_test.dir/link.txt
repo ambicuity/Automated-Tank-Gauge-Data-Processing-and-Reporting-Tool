@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tank_gauge_test.dir/link.d CMakeFiles/tank_gauge_test.dir/src/main.cpp.o -o tank_gauge_test  libtank_gauge_comm.a
