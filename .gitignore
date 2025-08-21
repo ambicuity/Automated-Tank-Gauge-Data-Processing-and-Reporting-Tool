@@ -1,0 +1,41 @@
+# Build artifacts
+cpp_protocol/build/
+*.o
+*.a
+*.so
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated reports and data (optional, keep sample data)
+python_tool/reports/*.png
+python_tool/reports/*.json
+python_tool/data/generated_*
+
+# Virtual environments
+venv/
+env/
+.env
